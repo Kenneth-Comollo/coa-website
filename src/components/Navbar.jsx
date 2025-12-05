@@ -12,6 +12,7 @@ const SiteNavbar = () => {
             <Nav.Link href="#">Home</Nav.Link>
             <Nav.Link href="#">Documents</Nav.Link>
             <Nav.Link href="#">Calendar</Nav.Link>
+            <Nav.Link href="#">Directory</Nav.Link>
             <Nav.Link href="#">Admin</Nav.Link>
           </Nav>
         </Navbar.Collapse>
