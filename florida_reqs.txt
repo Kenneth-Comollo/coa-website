@@ -1,0 +1,37 @@
+Florida Condo Website Requirements
+
+Applicability:
+Applies to homeowners’ associations with 150 or more parcels
+Applies to condominium associations with 50 or more units
+
+Website Requirement:
+Must maintain a website or web portal accessible to all association members
+
+Content Requirements:
+1. Association’s governing documents (declaration, bylaws, articles of incorporation)
+2. Rules and regulations
+3. Management or other contracts or documents related to the operation of the Association
+4. Annual budget and financial reports
+5. Summaries of bids for materials, equipment, or services exceeding $500
+6. Board meeting notices and agendas
+7. Approved meeting minutes
+
+Access:
+The website must be accessible through the internet
+A protected section of the website must be accessible only to owners with a login and password
+
+Updates:
+Required documents must be posted in a timely manner and updated regularly
+
+Privacy Protection:
+The website must not disclose personal identifying information of owners
+Compliance Timeline:
+
+Associations were required to comply by a specific date (January 1st, 2019) which has now passed, in order to comply with the original condo website requirement law for Condominiums with 150 units or more. Now, the new deadline is January 1st, 2026 for the most recent Florida HOA Website Requirements.
+
+Exceptions:
+Certain documents may be exempt from posting if they contain information that’s protected under law
+
+source:
+https://www.propertypop.io/condo-websites/
+https://www.propertypop.io/blog/new-florida-condo-website-law-requirements-checklist/
